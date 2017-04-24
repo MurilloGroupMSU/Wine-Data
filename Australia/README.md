@@ -4,7 +4,7 @@ I do hope to get something here soon. For now, I'll tell you this summary. In th
 
 log(price) = 0.0238 age + 0.616 temp + 0.00117 rain(prior) - 0.00386 rain(during).
 
-Those two measures are interesting: price scales with dryness _during_ the growing season but wetness _prior_ to the growing season. So, if you have a good weather prediction model, here is the model you need to know which wines to invest in. The same idea is applied to Grange wines to find a similar result. Comparisons of the resulting regressions are made between the two regions, suggesting that specific weather patterns are indicative of the world's best wines.
+The two rain measures are interesting: price scales with dryness _during_ the growing season but wetness _prior_ to the growing season. So, if you have a good weather prediction model, here is the model you need to know which wines to invest in. The same idea is applied to Grange wines to find a similar result. Comparisons of the resulting regressions are made between the two regions, suggesting that specific weather patterns are indicative of the world's best wines.
 
 Both of these papers are interesting from a wine and regression perspective, but I suspect the data used to find the correlations will never be available. Nevertheless, from a data science point of view it is interesting to see what they did and compare with the studies that do provide data (such as the Portuguese and Italian datasets).
 
