@@ -2,7 +2,7 @@ Sorry, there is *no* dataset here! I hope you are not disappointed....
 
 I do hope to get something here soon. For now, I'll tell you this summary. In the attached paper, a statistical analysis of Grange wines is carried out. The analysis discussed in the paper is based on a previous analysis of Bordeaux wines (see [here](http://www.liquidasset.com/orley.htm) and the attached paper). In the Bordeaux study they found that the log of the price was linearly related to wine age, temperature during growing season and two measures of rainfall: 
 
-log(price) = c1xage + c2xtemp + c3xrain(prior) - c4xrain(during).
+log(price) = 0.0238 age + 0.616 temp + 0.00117 rain(prior) - 0.00386 rain(during).
 
 Those two measures are interesting: price scales with dryness _during_ the growing season but wetness _prior_ to the growing season. So, if you have a good weather prediction model, here is the model you need to know which wines to invest in. The same idea is applied to Grange wines to find a similar result. Comparisons of the resulting regressions are made between the two regions, suggesting that specific weather patterns are indicative of the world's best wines.
 
