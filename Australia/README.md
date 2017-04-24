@@ -8,4 +8,4 @@ Those two measures are interesting: price scales with dryness _during_ the growi
 
 Both of these papers are interesting from a wine and regression perspective, but I suspect the data used to find the correlations will never be available. Nevertheless, from a data science point of view it is interesting to see what they did and compare with the studies that do provide data (such as the Portuguese and Italian datasets).
 
-Meanwhile, you can examine Grange prices [here](https://www.wickman.net.au/Grange_Prices.aspx); get me a case while you are at it?
+Meanwhile, you can examine Grange prices [here](https://www.wickman.net.au/Grange_Prices.aspx); get me a case while you are at it? I am interesting in the 1966s. 
